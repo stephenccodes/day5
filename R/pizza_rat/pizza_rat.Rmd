@@ -19,3 +19,4 @@ pizzatime <- function(day, money, weight) {
 
 devtools::document()
 usethis::use_git()
+usethis::use_github()
