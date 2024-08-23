@@ -1,5 +1,4 @@
 
-
 #' Pizzatime
 #'
 #' @param day = Day of the week. pizza is only to be eaten on tuesdays.
@@ -18,3 +17,5 @@ pizzatime <- function(day, money, weight) {
   }
 }
 
+devtools::document()
+usethis::use_git()
